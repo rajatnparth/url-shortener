@@ -16,6 +16,7 @@ Please Note-
 3. The DB script is present in db.sql
 4. To make things easy and quick, I have configured DB table creation on app startup. This will create/replace the table on app startup.
 5. jmx file included - /url-shortener/src/main/resources/UrlShortenerPerformanceTestPlan.jmx
+6. You can check the screenshots of the project in the doc file - URL-Shortener-screenshots.docx
 
 
 
